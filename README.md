@@ -98,4 +98,13 @@ Supported layers: TK Cursor (BSPC), TK Symbol (SPC), TK Mouse (ENTER), TK Lower 
 
 ## License
 
-[GPL-3.0](LICENSE)
+[GPL-3.0](LICENSE)   
+
+## Comments
+
+This has been hardly hardcoded, and by those principles "it works on my machine"
+
+
+<a href="https://www.buymeacoffee.com/YOUR_HANDLE">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="200">
+</a>
